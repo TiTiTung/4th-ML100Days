@@ -2,7 +2,7 @@
 
 # AI馬拉松
 
-###### tags: `Tag(change me!)`
+###### 陳姿妤
 
 > This note is yours, feel free to play around.  :video_game: 
 > Type on the left :arrow_left: and see the rendered result on the right. :arrow_right: 
@@ -31,3 +31,24 @@ Apply different styling to this paragraph:
 - [x] ==Highlight==
 
 
+## 這是第四課的code,在第四行出現抹抹問題,建議....
+
+``` python
+w = 3
+b = 0.5
+x_lin = np.linspace(0, 100, 101)
+y = (x_lin + np.random.randn(101) * 5) * w + b
+
+plt.plot(x_lin, y, 'b.', label = 'data points')
+plt.title("Assume we have data points")
+plt.legend(loc = 2)
+plt.show()
+```
+
+待修改問題：
+- [ ] * ㄍregregreg
+- [ ] ergergreg
+- [ ] ergergre
+
+ergregerg
+- [ ] 
